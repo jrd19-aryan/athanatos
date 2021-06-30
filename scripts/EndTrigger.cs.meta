@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19e24205c6f0cdb4d97fcb72a06b710d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LevelCompleteUI: {instanceID: 0}
+  - scoredisp: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
